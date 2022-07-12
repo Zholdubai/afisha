@@ -3,6 +3,7 @@ from django.db import models
 
 from django.db import models
 
+
 STARS = (
 
     (1, '*'),
